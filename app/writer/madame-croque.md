@@ -4,4 +4,5 @@
 
 Recipe Picks:
 
-- January: [Chocolate Soup](../recipe/jan/chocolate-soup.md)
+- January: [Chocolate_Soup](../recipe/jan/chocolate-soup.md)
+- February: [Roast_Pork_Sandwich](../recipe/feb/roast-pork-and-pickled-cucumber-sandwich.md)
